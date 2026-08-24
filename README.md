@@ -15,7 +15,7 @@ Windows 10/11, Astral Party Steam Global/INT 클라이언트의 PvE 환경을 �
 
 ## 사용 안내
 
-![Shushu Shield Indicator 사용 안내](assets/Infographic_KO.png)
+![Shushu Shield Indicator 사용 안내](Infographic_KO.png)
 
 ## 시연 영상
 
