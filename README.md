@@ -19,7 +19,9 @@ Windows 10/11, Astral Party Steam Global/INT 클라이언트의 PvE 환경을 �
 
 ## 시연 영상
 
-[Shushu Shield Indicator v1.24 시연 영상](https://youtu.be/gHkvVtvm5-8)
+[![Shushu Shield Indicator v1.24 시연 영상](https://img.youtube.com/vi/gHkvVtvm5-8/maxresdefault.jpg)](https://youtu.be/gHkvVtvm5-8)
+
+이미지를 클릭하면 YouTube 시연 영상으로 이동합니다.
 
 ---
 
