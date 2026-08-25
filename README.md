@@ -195,6 +195,23 @@ Sensor와 Indicator 간 상태 전달은 `127.0.0.1` 로컬 UDP를 사용합니�
 
 사용자는 본인이 이용하는 게임의 이용약관/운영정책을 직접 확인하고 본인의 판단과 책임 하에 사용해야 합니다.
 
+## 이용 및 배포 조건
+
+- 원제작자와 원본 출처를 명시하는 경우 원본 배포물의 비상업적 공유 및 재배포를 허용합니다.
+- 프로그램 파일, 문서, 라이선스 고지 등 원본 구성요소를 임의로 수정하거나 제거하지 않은 상태로 배포해야 합니다.
+- 상업적 이용은 허용하지 않습니다.
+- 본 프로그램을 자신 또는 제3자가 제작한 것처럼 표시하거나 원제작자 정보를 삭제·변경하여 제작자를 오인하게 하는 행위를 금지합니다.
+- 수정본, 재포장본 또는 파생물의 공개 재배포에는 원제작자의 사전 허가가 필요합니다.
+- 저작권 고지 및 이용 조건을 삭제하거나 변경해서는 안 됩니다.
+
+자세한 내용은 배포물의 `LICENSE.txt`를 확인하세요.
+
+Astral Party의 게임 그래픽, 이펙트, 이미지, 캐릭터, 로고, 명칭 및 기타 게임 자산에 대한 권리는 해당 권리자에게 있습니다.
+
+본 배포물에 그러한 게임 자산의 일부가 포함되어 있더라도, Shushu Shield Indicator의 이용 및 배포 조건은 해당 게임 자산에 대한 별도의 이용권, 소유권 또는 재배포 권리를 부여하는 것으로 해석되지 않습니다.
+
+제3자 라이브러리 및 도구의 별도 라이선스와 고지는 `THIRD_PARTY_NOTICES.txt` 및 `LICENSES` 폴더를 따릅니다.
+
 ## 배포 파일
 
 공식 배포 ZIP:
@@ -207,11 +224,16 @@ ShushuShieldIndicator_v1.24_Windows.zip
    ├─ Infographic_KO.png
    ├─ README_KO.txt
    ├─ RELEASE_NOTES.txt
+   ├─ LICENSE.txt
    ├─ THIRD_PARTY_NOTICES.txt
    ├─ ShushuShieldIndicator.build.json
    ├─ SHA256SUMS.txt
    └─ LICENSES\
 ```
+
+`LICENSE.txt`는 Shushu Shield Indicator 자체의 이용 및 배포 조건입니다.
+
+`THIRD_PARTY_NOTICES.txt`와 `LICENSES` 폴더는 배포물에 포함된 제3자 라이브러리 및 도구의 라이선스/고지용입니다.
 
 `SHA256SUMS.txt`를 이용하면 배포 파일의 SHA-256을 확인할 수 있습니다.
 
