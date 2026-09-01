@@ -5,9 +5,11 @@ Astral Party의 PvE 플레이 중 렌의 슈슈 쉴드 상태를 더 쉽게 확�
 
 ## 다운로드
 
-최신 버전: **v1.24**
+최신 버전: **v1.24.1**
 
 [Shushu Shield Indicator 최신 버전 다운로드](https://github.com/Shushu1121/ShushuShieldIndicator-Releases/releases/latest)
+
+> v1.24.1: 게임 내 `게임 종료` 버튼 사용 시 Sensor가 Unity/IL2CPP 종료를 막아 응답 없음 상태가 될 수 있던 문제를 수정했습니다.
 
 Windows 10/11, Astral Party Steam Global/INT 클라이언트의 PvE 환경을 기준으로 개발 및 검증되었습니다.
 
@@ -202,7 +204,7 @@ Shushu Shield Indicator는 오픈소스 소프트웨어로 제공되는 프로�
 
 공식 배포처: [ShushuShieldIndicator-Releases](https://github.com/Shushu1121/ShushuShieldIndicator-Releases)
 
-본 문서에서 **원본 배포물**은 원제작자가 공식 GitHub 저장소 및 GitHub Releases를 통해 직접 배포한 `ShushuShieldIndicator_v1.24_Windows.zip`을 내용 변경 없이 그대로 보존한 배포물을 의미합니다.
+본 문서에서 **원본 배포물**은 원제작자가 공식 GitHub 저장소 및 GitHub Releases를 통해 직접 배포한 `ShushuShieldIndicator_v1.24.1_Windows.zip`을 내용 변경 없이 그대로 보존한 배포물을 의미합니다.
 
 - 원제작자와 공식 배포처 등 원본 출처를 명시하는 경우 원본 배포물의 비상업적 공유 및 재배포를 허용합니다.
 - 프로그램 파일, 문서, 라이선스 고지 등 원본 구성요소를 임의로 수정하거나 제거하지 않은 상태로 배포해야 합니다.
@@ -225,7 +227,7 @@ Astral Party의 게임 그래픽, 이펙트, 이미지, 캐릭터, 로고, 명�
 공식 배포 ZIP:
 
 ```text
-ShushuShieldIndicator_v1.24_Windows.zip
+ShushuShieldIndicator_v1.24.1_Windows.zip
 └─ dist\
    ├─ ShushuShieldIndicator.exe
    ├─ ShushuShieldIndicator_Uninstall.exe
