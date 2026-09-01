@@ -1,4 +1,4 @@
-﻿Shushu Shield Indicator - 이용 및 배포 조건
+Shushu Shield Indicator - 이용 및 배포 조건
 
 Copyright © 2026 렌이좋은데슈슈쉴드자꾸날려먹어서답답했던아붕이
 All rights reserved.
@@ -16,7 +16,7 @@ All rights reserved.
 https://github.com/Shushu1121/ShushuShieldIndicator-Releases
 
 본 이용 조건에서 "원본 배포물"이란 원제작자가 위 공식 GitHub 저장소 및
-GitHub Releases를 통해 직접 배포한 ShushuShieldIndicator_v1.24_Windows.zip을
+GitHub Releases를 통해 직접 배포한 ShushuShieldIndicator_v1.24.1_Windows.zip을
 파일 내용과 구성요소를 변경하지 않은 상태로 그대로 보존한 배포물을 의미합니다.
 
 [허용되는 이용]
